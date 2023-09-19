@@ -3,6 +3,8 @@
     "firmware": [
         {
             "software": "3.1.4",
+            "date": "20-09-2023",
+            "notes":"Over the air updates. Corrected lock states. Supports new Blade Check service type. PTO Clutch tolerance prevents false-positive lift halt. Bugfixes.",
             "hardware": [
                 "3.13",
                 "2.31"
@@ -10,6 +12,8 @@
         },
         {
             "software": "2.440",
+            "date": "",
+            "notes":"",
             "hardware": [
                 "2.31"
             ]
