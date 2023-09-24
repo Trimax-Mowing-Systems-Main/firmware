@@ -2,10 +2,12 @@
     "host": "https://bitbucket.org/trimax-mowing-systems/firmware/raw/1b90138f2a05a55397aa152334387b0bbf94543c/mls/",
     "firmware": [
         {
-            "software": "3.1.4",
-            "date": "20-09-2023",
-            "notes":"Over the air updates. Corrected lock states. Supports new Blade Check service type. PTO Clutch tolerance prevents false-positive lift halt. Bugfixes.",
+            "software": "3.2.0",
+            "date": "25-09-2023",
+            "notes":"Over the air updates. Corrected lock states. Supports new Blade Check service type. Jumpy deck valve false-positive. Bugfixes.",
             "hardware": [
+                "3.1.4",
+                "3.1.3",
                 "3.13",
                 "2.31"
             ]
