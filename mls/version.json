@@ -1,5 +1,5 @@
 {
-    "host": "https://bitbucket.org/trimax-mowing-systems/firmware/raw/1b90138f2a05a55397aa152334387b0bbf94543c/mls/",
+    "host": "https://bitbucket.org/trimax-mowing-systems/firmware/raw/818bb41039603222f76b24decbbbce6640cddc93/mls/",
     "firmware": [
         {
             "software": "3.2.1",
