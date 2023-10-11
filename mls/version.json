@@ -2,8 +2,8 @@
     "host": "https://api.bitbucket.org/2.0/repositories/trimax-mowing-systems/firmware/src/master/mls/",
     "firmware": [
         {
-            "software": "3.3.0",
-            "date": "03-10-2023",
+            "software": "3.3.1",
+            "date": "12-10-2023",
             "notes":"Over the air firmware updates. Corrected lock states. Supports new Blade Check service type. Jumpy deck valve false-positive. Bugfixes.",
             "hardware": [
                 "3.1.4",
