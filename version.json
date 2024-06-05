@@ -44,7 +44,7 @@
                 ]
             }
         ],
-        "optiAdjust": {
+        "height": {
             "master": [
                 {
                     "software": "0.5.3",
