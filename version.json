@@ -61,7 +61,7 @@
                     "date": "05-06-2024",
                     "notes":"Bugfix: Height limit switch governer.",
                     "hardware": [
-                        "1.0"
+                        "0.1"
                     ]
                 }
             ]
