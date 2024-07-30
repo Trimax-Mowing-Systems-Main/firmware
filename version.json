@@ -65,8 +65,8 @@
             ],
             "slave": [
                 {
-                    "software": "0.6.15",
-                    "date": "30-07-2024",
+                    "software": "0.6.16",
+                    "date": "31-07-2024",
                     "notes": "Fix: Motor sensor not always applying reset.",
                     "hardware": [
                         "0.1"
