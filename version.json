@@ -65,6 +65,14 @@
             ],
             "slave": [
                 {
+                    "software": "0.6.18",
+                    "date": "09-09-2024",
+                    "notes": "Fix: POWER error evaluation; reduces false-positives.",
+                    "hardware": [
+                        "0.1"
+                    ]
+                },
+                {
                     "software": "0.6.17",
                     "date": "31-07-2024",
                     "notes": "Fix: Motor sensor not always applying reset.",
