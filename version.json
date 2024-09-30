@@ -47,6 +47,14 @@
         "height": {
             "master": [
                 {
+                    "software": "0.6.2",
+                    "date": "30-09-2024",
+                    "notes": "Fix: Voltage offset not accept negative value. Broadcast randomisation was subject to overflow causing no broadcast pause momentarily.",
+                    "hardware": [
+                        "0.1"
+                    ]
+                },
+                {
                     "software": "0.6.0",
                     "date": "20-06-2024",
                     "notes": "Bluetooth BattVoltReadOffset.",
@@ -65,7 +73,7 @@
             ],
             "slave": [
                 {
-                    "software": "0.6.19",
+                    "software": "0.6.20",
                     "date": "30-09-2024",
                     "notes": "Fix: Voltage offset not accept negative value.",
                     "hardware": [
