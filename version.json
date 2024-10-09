@@ -73,6 +73,14 @@
             ],
             "slave": [
                 {
+                    "software": "0.6.21",
+                    "date": "10-10-2024",
+                    "notes": "Fix: POWER error evaluation; Broken in v0.6.18.",
+                    "hardware": [
+                        "0.1"
+                    ]
+                },
+                {
                     "software": "0.6.20",
                     "date": "30-09-2024",
                     "notes": "Fix: Voltage offset not accept negative value.",
