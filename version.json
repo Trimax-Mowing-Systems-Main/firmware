@@ -73,7 +73,7 @@
             ],
             "slave": [
                 {
-                    "software": "0.6.21",
+                    "software": "0.6.22",
                     "date": "10-10-2024",
                     "notes": "Fix: POWER error evaluation; Broken in v0-6-18.",
                     "hardware": [
