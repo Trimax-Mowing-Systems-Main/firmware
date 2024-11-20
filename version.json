@@ -3,7 +3,7 @@
     "firmware": {
         "mls": [
             {
-                "software": "3.3.6",
+                "software": "3.3.7",
                 "date": "20-11-2024",
                 "notes":"TESTING ONLY; DO NOT APPLY THIS UPDATE.",
                 "hardware": [
