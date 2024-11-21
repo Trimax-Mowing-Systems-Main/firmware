@@ -5,7 +5,7 @@
             {
                 "software": "3.3.7",
                 "date": "20-11-2024",
-                "notes":"TESTING ONLY; DO NOT APPLY THIS UPDATE.",
+                "notes":"Pegasus S5 V2 support; Lock values are inverse.",
                 "hardware": [
                     "3.1.4",
                     "3.1.3",
