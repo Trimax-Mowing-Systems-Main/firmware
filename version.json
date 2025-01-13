@@ -69,6 +69,14 @@
         "height": {
             "master": [
                 {
+                    "software": "0.6.4",
+                    "date": "14-01-2025",
+                    "notes": "Bluetooth BattVoltReadOffset now supports negative values from the Connect App.",
+                    "hardware": [
+                        "1.0"
+                    ]
+                },
+                {
                     "software": "0.6.3",
                     "date": "09-01-2025",
                     "notes": "Performance: Firmware OTA now 2.2x faster.",
