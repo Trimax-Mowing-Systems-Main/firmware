@@ -69,9 +69,9 @@
         "height": {
             "master": [
                 {
-                    "software": "0.6.5",
+                    "software": "0.6.6",
                     "date": "04-03-2025",
-                    "notes": "Calibration finalise now evaluates switch rather than MotorStepNo datum value.",
+                    "notes": "Firmware update WiFi OTA capability. Calibration finalise now evaluates switch rather than MotorStepNo datum value.",
                     "hardware": [
                         "1.0"
                     ]
