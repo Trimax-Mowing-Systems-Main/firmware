@@ -71,7 +71,7 @@
                 {
                     "software": "0.7.0",
                     "date": "05-03-2025",
-                    "notes": "Performance: Firmware OTA WiFi. Calibration finalise now evaluates switch rather than MotorStepNo datum value.",
+                    "notes": "Performance: Firmware OTA WiFi now 10x faster. Calibration finalise now evaluates switch rather than MotorStepNo datum value.",
                     "hardware": [
                         "1.0"
                     ]
