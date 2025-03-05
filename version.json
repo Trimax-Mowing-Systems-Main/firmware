@@ -5,7 +5,7 @@
             {
                 "software": "3.3.8",
                 "date": "10-01-2025",
-                "notes":"Performance: Firmware OTA now 2.2x faster.",
+                "notes":"Performance: Firmware OTA 2.2x faster.",
                 "hardware": [
                     "3.1.4",
                     "3.1.3",
@@ -71,7 +71,7 @@
                 {
                     "software": "0.7.0",
                     "date": "05-03-2025",
-                    "notes": "Performance: Firmware OTA WiFi now 10x faster. Calibration finalise now evaluates switch rather than MotorStepNo datum value.",
+                    "notes": "Performance: Firmware OTA WiFi 10x faster. Calibration finalise now evaluates switch rather than MotorStepNo datum value.",
                     "hardware": [
                         "1.0"
                     ]
@@ -87,7 +87,7 @@
                 {
                     "software": "0.6.3",
                     "date": "09-01-2025",
-                    "notes": "Performance: Firmware OTA now 2.2x faster.",
+                    "notes": "Performance: Firmware OTA 2.2x faster.",
                     "hardware": [
                         "1.0"
                     ]
@@ -121,7 +121,7 @@
                 {
                     "software": "0.6.26",
                     "date": "09-01-2025",
-                    "notes": "Performance: Firmware OTA now 2.2x faster.",
+                    "notes": "Performance: Firmware OTA 2.2x faster.",
                     "hardware": [
                         "0.1"
                     ]
