@@ -69,6 +69,14 @@
         "height": {
             "master": [
                 {
+                    "software": "0.7.2",
+                    "date": "22-05-2025",
+                    "notes": "Fix: WiFi packet filter; constrain to local network.",
+                    "hardware": [
+                        "1.0"
+                    ]
+                },
+                {
                     "software": "0.7.1",
                     "date": "07-03-2025",
                     "notes": "Performance: Firmware OTA WiFi 10x faster. Calibration finalise now evaluates switch rather than MotorStepNo datum value.",
@@ -118,14 +126,6 @@
                 }
             ],
             "slave": [
-                {
-                    "software": "0.7.2",
-                    "date": "09-04-2025",
-                    "notes": "OTA TEST",
-                    "hardware": [
-                        "0.2"
-                    ]
-                },
                 {
                     "software": "0.7.1",
                     "date": "07-03-2025",
@@ -185,7 +185,7 @@
                 {
                     "software": "0.6.13",
                     "date": "05-06-2024",
-                    "notes": "Bugfix: Height limit switch governer.",
+                    "notes": "Fix: Height limit switch governer.",
                     "hardware": [
                         "0.1"
                     ]
