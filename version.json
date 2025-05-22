@@ -119,14 +119,6 @@
             ],
             "slave": [
                 {
-                    "software": "0.7.2",
-                    "date": "09-04-2025",
-                    "notes": "OTA TEST",
-                    "hardware": [
-                        "0.2"
-                    ]
-                },
-                {
                     "software": "0.7.1",
                     "date": "07-03-2025",
                     "notes": "Performance: Firmware OTA WiFi 10x faster.",
