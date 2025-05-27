@@ -123,7 +123,7 @@
                     "date": "28-05-2025",
                     "notes": "Brushless BLDC",
                     "hardware": [
-                        "2.0"
+                        "2.0","0.2"
                     ]
                 },
                 {
