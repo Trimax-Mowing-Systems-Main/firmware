@@ -119,6 +119,14 @@
             ],
             "slave": [
                 {
+                    "software": "0.7.3",
+                    "date": "28-05-2025",
+                    "notes": "Brushless BLDC",
+                    "hardware": [
+                        "2.0"
+                    ]
+                },
+                {
                     "software": "0.7.1",
                     "date": "07-03-2025",
                     "notes": "Performance: Firmware OTA WiFi 10x faster.",
