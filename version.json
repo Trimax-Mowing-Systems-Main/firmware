@@ -126,7 +126,7 @@
             ],
             "slave": [
                 {
-                    "software": "0.7.11",
+                    "software": "0.7.12",
                     "date": "10-06-2025",
                     "notes": "Brushless BLDC",
                     "hardware": [
