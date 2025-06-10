@@ -126,18 +126,18 @@
             ],
             "slave": [
                 {
-                    "software": "0.7.19",
-                    "date": "10-06-2025",
-                    "notes": "Brushless Stepper",
-                    "hardware": ["1.0"]
-                },
-                {
-                    "software": "0.7.18",
-                    "date": "10-06-2025",
+                    "software": "0.7.20",
+                    "date": "11-06-2025",
                     "notes": "Brushless BLDC",
                     "hardware": [
                         "2.0","0.2"
                     ]
+                },
+                {
+                    "software": "0.7.19",
+                    "date": "10-06-2025",
+                    "notes": "Brushless Stepper",
+                    "hardware": ["1.0"]
                 },
                 {
                     "software": "0.7.1",
