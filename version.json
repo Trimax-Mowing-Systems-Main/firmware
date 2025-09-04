@@ -134,7 +134,7 @@
             ],
             "slave": [
                 {
-                    "software": "0.8.71",
+                    "software": "0.8.72",
                     "date": "04-09-2025",
                     "notes": "Brushless Stepper",
                     "hardware": ["1.5"]
