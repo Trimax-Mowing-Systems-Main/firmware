@@ -76,8 +76,8 @@
         "height": {
             "master": [
                 {
-                    "software": "0.8.9",
-                    "date": "09-09-2025",
+                    "software": "0.8.10",
+                    "date": "09-10-2025",
                     "notes": "Brushless Stepper PCB",
                     "hardware": [
                         "2.0"
