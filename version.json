@@ -88,7 +88,8 @@
                     "date": "09-10-2025",
                     "notes": "Brushless Stepper PCB",
                     "hardware": [
-                        "2.0"
+                        "2.0",
+                        "1.5"
                     ]
                 },
                 {
@@ -148,7 +149,7 @@
                     "hardware": ["3.0"]
                 },
                 {
-                    "software": "0.8.103",
+                    "software": "0.8.104",
                     "date": "16-10-2025",
                     "notes": "Brushless Stepper",
                     "hardware": ["1.5"]
