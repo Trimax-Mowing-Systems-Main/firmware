@@ -149,7 +149,7 @@
                     "hardware": ["3.0"]
                 },
                 {
-                    "software": "0.8.112",
+                    "software": "0.8.113",
                     "date": "30-10-2025",
                     "notes": "Brushless Stepper",
                     "hardware": ["1.5"]
