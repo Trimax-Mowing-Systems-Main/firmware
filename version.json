@@ -84,9 +84,9 @@
                     ]
                 },
                 {
-                    "software": "0.8.11",
-                    "date": "07-10-2025",
-                    "notes": "Brushless Stepper PCB",
+                    "software": "0.8.12",
+                    "date": "03-11-2025",
+                    "notes": "Brushless Stepper PCB S3",
                     "hardware": [
                         "2.0",
                         "1.5"
