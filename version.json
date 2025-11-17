@@ -78,7 +78,7 @@
                 {
                     "software": "0.9.1",
                     "date": "14-10-2025",
-                    "notes": "Brushless Stepper PCB C6",
+                    "notes": "Brushless Stepper C6",
                     "hardware": [
                         "3.0"
                     ]
@@ -86,7 +86,7 @@
                 {
                     "software": "0.8.14",
                     "date": "07-11-2025",
-                    "notes": "Brushless Stepper PCB S3",
+                    "notes": "Brushless Stepper S3",
                     "hardware": [
                         "2.0",
                         "1.5"
