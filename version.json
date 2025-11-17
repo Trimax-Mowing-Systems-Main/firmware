@@ -145,19 +145,19 @@
                 {
                     "software": "0.9.2",
                     "date": "14-10-2025",
-                    "notes": "Brushless Stepper",
+                    "notes": "Brushless Stepper C6",
                     "hardware": ["3.0"]
                 },
                 {
                     "software": "0.8.122",
                     "date": "06-11-2025",
-                    "notes": "Brushless Stepper",
+                    "notes": "Brushless Stepper S3",
                     "hardware": ["1.5"]
                 },
                 {
                     "software": "0.7.21",
                     "date": "13-06-2025",
-                    "notes": "Brushless BLDC",
+                    "notes": "Brushless BLDC S3",
                     "hardware": [
                         "2.0","0.2"
                     ]
