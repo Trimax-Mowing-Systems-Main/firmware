@@ -143,6 +143,12 @@
             ],
             "slave": [
                 {
+                    "software": "0.9.11",
+                    "date": "14-01-2026",
+                    "notes": "TEST DO NOT UPDATE! Timer Drive On Stepper C6",
+                    "hardware": ["3.0"]
+                },
+                {
                     "software": "0.9.10",
                     "date": "18-12-2025",
                     "notes": "Brushless Stepper C6",
