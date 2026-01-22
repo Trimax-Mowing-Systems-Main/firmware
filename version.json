@@ -143,18 +143,6 @@
             ],
             "slave": [
                 {
-                    "software": "0.9.13",
-                    "date": "19-01-2026",
-                    "notes": "TEST DO NOT UPDATE!! | SLAVE TARGET SYSTEM W/RAM DRIVE C6 - PROXI DEBOUNCE FIX",
-                    "hardware": ["3.0"]
-                },
-                {
-                    "software": "0.9.12",
-                    "date": "16-01-2026",
-                    "notes": "TEST DO NOT UPDATE!   SLAVE TARGET SYSTEM W/RAM DRIVE C6",
-                    "hardware": ["3.0"]
-                },
-                {
                     "software": "0.9.10",
                     "date": "18-12-2025",
                     "notes": "Brushless Stepper C6",
