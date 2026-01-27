@@ -143,12 +143,6 @@
             ],
             "slave": [
                 {
-                    "software": "0.9.14",
-                    "date": "27-01-2025",
-                    "notes": "Brushless Stepper C6 - Prod Ver Re-release",
-                    "hardware": ["3.0"]
-                },
-                {
                     "software": "0.9.10",
                     "date": "18-12-2025",
                     "notes": "Brushless Stepper C6",
