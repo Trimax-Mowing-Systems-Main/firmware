@@ -143,6 +143,12 @@
             ],
             "slave": [
                 {
+                    "software": "0.9.17",
+                    "date": "29-01-2026",
+                    "notes": "Test Do Not Update !! - Brushless Stepper C6 - OLD WC",
+                    "hardware": ["3.0"]
+                },
+                {
                     "software": "0.9.16",
                     "date": "29-01-2026",
                     "notes": "Test Do Not Update !! - Brushless Stepper C6 - Reverse Logic",
