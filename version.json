@@ -76,6 +76,14 @@
         "height": {
             "master": [
                 {
+                    "software": "0.9.7",
+                    "date": "29-01-2026",
+                    "notes": "Test Do Not Update !! - Master C6 - OLD WC",
+                    "hardware": [
+                        "3.0"
+                    ]
+                },
+                {
                     "software": "0.9.4",
                     "date": "10-12-2025",
                     "notes": "Brushless Stepper C6",
