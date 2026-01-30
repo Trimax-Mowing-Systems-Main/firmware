@@ -143,6 +143,12 @@
             ],
             "slave": [
                 {
+                    "software": "0.9.21",
+                    "date": "31-01-2026",
+                    "notes": "Slave-C6 Bug fixes, setup clear introduced.",
+                    "hardware": ["3.1"]
+                },
+                {
                     "software": "0.9.19",
                     "date": "30-01-2026",
                     "notes": "Slave-C6 400 RPM",
