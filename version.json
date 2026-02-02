@@ -76,6 +76,14 @@
         "height": {
             "master": [
                 {
+                    "software": "0.9.7",
+                    "date": "03-02-2026",
+                    "notes": "BLE 1000ms, Radio guard, ESPNOW CH13 C6",
+                    "hardware": [
+                        "3.1"
+                    ]
+                },
+                {
                     "software": "0.9.6",
                     "date": "02-02-2026",
                     "notes": "SLOTTED AIR TIME + CH13 ON C6",
@@ -150,6 +158,12 @@
                 }
             ],
             "slave": [
+                {
+                    "software": "0.9.23",
+                    "date": "03-02-2026",
+                    "notes": "ESPNOW CH13, nominal TX power - C6",
+                    "hardware": ["3.1"]
+                },
                 {
                     "software": "0.9.22",
                     "date": "02-02-2026",
