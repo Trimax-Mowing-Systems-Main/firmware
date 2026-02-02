@@ -76,6 +76,14 @@
         "height": {
             "master": [
                 {
+                    "software": "0.9.6",
+                    "date": "02-02-2026",
+                    "notes": "SLOTTED AIR TIME + CH13 ON C6",
+                    "hardware": [
+                        "3.1"
+                    ]
+                },
+                {
                     "software": "0.9.4",
                     "date": "10-12-2025",
                     "notes": "Brushless Stepper C6",
@@ -142,6 +150,12 @@
                 }
             ],
             "slave": [
+                {
+                    "software": "0.9.22",
+                    "date": "02-02-2026",
+                    "notes": "SLOTTED AIR TIME + CH13 ON C6",
+                    "hardware": ["3.1"]
+                },
                 {
                     "software": "0.9.21",
                     "date": "31-01-2026",
