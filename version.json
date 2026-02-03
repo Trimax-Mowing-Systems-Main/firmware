@@ -76,6 +76,14 @@
         "height": {
             "master": [
                 {
+                    "software": "0.9.8",
+                    "date": "03-02-2026",
+                    "notes": "EEPROM CLEARED C6",
+                    "hardware": [
+                        "3.1"
+                    ]
+                },
+                {
                     "software": "0.9.7",
                     "date": "03-02-2026",
                     "notes": "BLE 1000ms, Radio guard, ESPNOW CH13 C6",
@@ -158,6 +166,12 @@
                 }
             ],
             "slave": [
+                {
+                    "software": "0.9.24",
+                    "date": "03-02-2026",
+                    "notes": "EEPROM CLEARED C6",
+                    "hardware": ["3.1"]
+                },
                 {
                     "software": "0.9.23",
                     "date": "03-02-2026",
