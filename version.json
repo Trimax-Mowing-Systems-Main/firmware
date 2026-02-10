@@ -151,7 +151,7 @@
             ],
             "slave": [
                 {
-                    "software": "0.9.28",
+                    "software": "0.9.30",
                     "date": "10-02-2026",
                     "notes": "Mike Lee TEST ONLY",
                     "hardware": ["3.1"]
