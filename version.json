@@ -151,9 +151,9 @@
             ],
             "slave": [
                 {
-                    "software": "0.9.29",
+                    "software": "0.9.28",
                     "date": "10-02-2026",
-                    "notes": "Mahi - Slave - Revert back - C6",
+                    "notes": "Mike Lee TEST ONLY",
                     "hardware": ["3.1"]
                 },
                 {
