@@ -151,7 +151,7 @@
             ],
             "slave": [
                  {
-                    "software": "0.9.50",
+                    "software": "0.10.1",
                     "date": "11-12-2025",
                     "notes": "Brushless Stepper C6 !! DO NOT UPDATE !!",
                     "hardware": [
