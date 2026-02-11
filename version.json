@@ -76,6 +76,14 @@
         "height": {
             "master": [
                 {
+                    "software": "0.10.3",
+                    "date": "12-02-2026",
+                    "notes": "Master Targeted -> CH13 C6 -> EXT ANT",
+                    "hardware": [
+                        "3.2"
+                    ]
+                },
+                {
                     "software": "0.9.4",
                     "date": "10-12-2025",
                     "notes": "Brushless Stepper C6",
@@ -142,6 +150,14 @@
                 }
             ],
             "slave": [
+                {
+                    "software": "0.10.3",
+                    "date": "12-02-2026",
+                    "notes": "Slave Targeted -> CH13 C6 -> INT ANT",
+                    "hardware": [
+                        "3.1"
+                    ]
+                },
                 {
                     "software": "0.10.1",
                     "date": "13-02-2026",
