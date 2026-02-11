@@ -84,9 +84,9 @@
                     ]
                 },
                 {
-                    "software": "0.9.4",
-                    "date": "10-12-2025",
-                    "notes": "Brushless Stepper C6",
+                    "software": "0.9.50",
+                    "date": "11-12-2025",
+                    "notes": "Brushless Stepper C6 !! DO NOT UPDATE !!",
                     "hardware": [
                         "3.0"
                     ]
