@@ -76,19 +76,11 @@
         "height": {
             "master": [
                 {
-                    "software": "0.9.11",
-                    "date": "04-02-2026",
-                    "notes": "CH13",
-                    "hardware": [
-                        "3.1"
-                    ]
-                },
-                {
-                    "software": "0.9.50",
+                    "software": "0.10.1",
                     "date": "11-12-2025",
                     "notes": "Brushless Stepper C6 !! DO NOT UPDATE !!",
                     "hardware": [
-                        "3.0"
+                        "3.0","3.1"
                     ]
                 },
                 {
