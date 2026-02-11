@@ -84,9 +84,9 @@
                     ]
                 },
                 {
-                    "software": "0.9.50",
-                    "date": "11-12-2025",
-                    "notes": "Brushless Stepper C6 CH13 - INTERIM MASTER HW3.2",
+                    "software": "0.9.4",
+                    "date": "10-12-2025",
+                    "notes": "Brushless Stepper C6",
                     "hardware": [
                         "3.0"
                     ]
@@ -151,10 +151,10 @@
             ],
             "slave": [
                 {
-                    "software": "0.9.50",
-                    "date": "11-02-2026",
-                    "notes": "Brushless Stepper C6 CH13",
-                    "hardware": ["3.0","3.1"]
+                    "software": "0.9.11",
+                    "date": "30-01-2026",
+                    "notes": "Brushless Stepper C6",
+                    "hardware": ["3.0"]
                 },
                 {
                     "software": "0.8.123",
