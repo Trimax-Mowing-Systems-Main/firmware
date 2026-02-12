@@ -155,7 +155,7 @@
                     "date": "12-02-2026",
                     "notes": "Slave Targeted -> CH13 C6 -> INT ANT + Force Write HW version",
                     "hardware": [
-                        "3.1"
+                        "3.1","3.0"
                     ]
                 },
                 {
