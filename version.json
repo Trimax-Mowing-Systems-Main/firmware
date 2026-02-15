@@ -76,6 +76,14 @@
         "height": {
             "master": [
                 {
+                    "software": "0.10.5",
+                    "date": "16-02-2026",
+                    "notes": "Master Targeted -> CH13 C6 -> EXT ANT -> 5s Timeout + Force Write HW version",
+                    "hardware": [
+                        "3.2","3.0"
+                    ]
+                },
+                {
                     "software": "0.10.4",
                     "date": "12-02-2026",
                     "notes": "Master Targeted -> CH13 C6 -> EXT ANT -> 5s Timeout",
@@ -150,6 +158,14 @@
                 }
             ],
             "slave": [
+                {
+                    "software": "0.10.5",
+                    "date": "16-02-2026",
+                    "notes": "Slave Targeted -> CH13 C6 -> EXT ANT + Force Write HW version",
+                    "hardware": [
+                        "3.2","3.0"
+                    ]
+                },
                 {
                     "software": "0.10.4",
                     "date": "12-02-2026",
