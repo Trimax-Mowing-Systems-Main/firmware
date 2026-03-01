@@ -171,7 +171,7 @@
                     "date": "16-02-2026",
                     "notes": "Slave Targeted -> CH13 C6 -> EXT ANT + Force Write HW version",
                     "hardware": [
-                        "3.2"
+                        "3.2","3.0"
                     ]
                 },
                 {
