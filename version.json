@@ -167,14 +167,6 @@
                     ]
                 },
                 {
-                    "software": "0.10.5",
-                    "date": "16-02-2026",
-                    "notes": "Slave Targeted -> CH13 C6 -> EXT ANT + Force Write HW version",
-                    "hardware": [
-                        "3.2"
-                    ]
-                },
-                {
                     "software": "0.10.4",
                     "date": "12-02-2026",
                     "notes": "Slave Targeted -> CH13 C6 -> INT ANT + Force Write HW version",
@@ -205,65 +197,17 @@
                     ]
                 },
                 {
+                    "software": "0.7.29",
+                    "date": "10-03-2026",
+                    "notes": "Feat: Setup mode switch moves motor.",
+                    "hardware": [
+                        "0.1"
+                    ]
+                },
+                {
                     "software": "0.7.1",
                     "date": "07-03-2025",
                     "notes": "Performance: Firmware OTA WiFi 10x faster.",
-                    "hardware": [
-                        "0.1"
-                    ]
-                },
-                {
-                    "software": "0.6.26",
-                    "date": "09-01-2025",
-                    "notes": "Performance: Firmware OTA 2.2x faster.",
-                    "hardware": [
-                        "0.1"
-                    ]
-                },
-                {
-                    "software": "0.6.25",
-                    "date": "10-10-2024",
-                    "notes": "Fix: POWER error evaluation; Broken in v0-6-18.",
-                    "hardware": [
-                        "0.1"
-                    ]
-                },
-                {
-                    "software": "0.6.20",
-                    "date": "30-09-2024",
-                    "notes": "Fix: Voltage offset not accept negative value.",
-                    "hardware": [
-                        "0.1"
-                    ]
-                },
-                {
-                    "software": "0.6.18",
-                    "date": "09-09-2024",
-                    "notes": "Fix: POWER error evaluation; reduces false-positives.",
-                    "hardware": [
-                        "0.1"
-                    ]
-                },
-                {
-                    "software": "0.6.17",
-                    "date": "31-07-2024",
-                    "notes": "Fix: Motor sensor not always applying reset.",
-                    "hardware": [
-                        "0.1"
-                    ]
-                },
-                {
-                    "software": "0.6.14",
-                    "date": "20-06-2024",
-                    "notes": "Chore: Increase POWER error threshold.",
-                    "hardware": [
-                        "0.1"
-                    ]
-                },
-                {
-                    "software": "0.6.13",
-                    "date": "05-06-2024",
-                    "notes": "Bugfix: Height limit switch governer.",
                     "hardware": [
                         "0.1"
                     ]
