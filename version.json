@@ -197,7 +197,7 @@
                     ]
                 },
                 {
-                    "software": "0.7.29",
+                    "software": "0.7.30",
                     "date": "10-03-2026",
                     "notes": "Feat: Setup mode switch moves motor.",
                     "hardware": [
