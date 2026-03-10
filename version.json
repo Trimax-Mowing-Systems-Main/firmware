@@ -197,17 +197,9 @@
                     ]
                 },
                 {
-                    "software": "0.7.30",
+                    "software": "0.7.31",
                     "date": "10-03-2026",
                     "notes": "Feat: Setup mode switch moves motor.",
-                    "hardware": [
-                        "0.1"
-                    ]
-                },
-                {
-                    "software": "0.7.1",
-                    "date": "07-03-2025",
-                    "notes": "Performance: Firmware OTA WiFi 10x faster.",
                     "hardware": [
                         "0.1"
                     ]
