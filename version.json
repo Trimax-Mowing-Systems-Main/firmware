@@ -77,17 +77,11 @@
             "master": [
                 {
                     "software": "0.10.6",
-                    "date": "25-02-2026",
-                    "notes": "Master Targeted -> CH13 C6 -> EXT ANT -> 5s Timeout",
+                    "date": "12-03-2026",
+                    "notes": "CH13 C6 -> EXT ANT -> 5s Timeout",
                     "hardware": [
                         "3.2"
                     ]
-                },
-                {
-                    "software": "0.10.5",
-                    "date": "16-02-2026",
-                    "notes": "Master Targeted -> CH13 C6 -> EXT ANT -> 5s Timeout + Force Write HW version",
-                    "hardware": []
                 },
                 {
                     "software": "0.9.4",
@@ -157,17 +151,17 @@
             ],
             "slave": [
                 {
-                    "software": "0.10.6",
-                    "date": "25-02-2026",
-                    "notes": "Slave Targeted -> CH13 C6 -> EXT ANT + BLUE LED",
+                    "software": "0.10.7",
+                    "date": "12-03-2026",
+                    "notes": "CH13 C6 -> EXT ANT + BLUE LED + BLE Disable Guard",
                     "hardware": [
                         "3.2"
                     ]
                 },
                 {
-                    "software": "0.10.4",
-                    "date": "12-02-2026",
-                    "notes": "Slave Targeted -> CH13 C6 -> INT ANT + Force Write HW version",
+                    "software": "0.10.8",
+                    "date": "12-03-2026",
+                    "notes": "CH13 C6 -> INT ANT + Force Write HW version + BLE Disable Guard",
                     "hardware": [
                         "3.1"
                     ]
