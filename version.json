@@ -159,7 +159,7 @@
                     ]
                 },
                 {
-                    "software": "0.10.9",
+                    "software": "0.10.8",
                     "date": "12-03-2026",
                     "notes": "CH13 C6 -> INT ANT + Force Write HW version + BLE Disable Guard",
                     "hardware": [
