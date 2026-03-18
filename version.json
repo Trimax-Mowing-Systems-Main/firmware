@@ -76,6 +76,14 @@
         "height": {
             "master": [
                 {
+                    "software": "0.10.9",
+                    "date": "19-03-2026",
+                    "notes": "CH13 C6 -> EXT ANT -> RANDOM BLE MAC",
+                    "hardware": [
+                        "3.2"
+                    ]
+                },
+                {
                     "software": "0.10.6",
                     "date": "12-03-2026",
                     "notes": "CH13 C6 -> EXT ANT -> 5s Timeout",
