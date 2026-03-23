@@ -1,5 +1,5 @@
 {
-    "host": "https://api.bitbucket.org/2.0/repositories/trimax-mowing-systems/firmware/src/master/",
+    "host": "https://raw.githubusercontent.com/Trimax-Mowing-Systems-Main/firmware/refs/heads/master/",
     "assemblyJig": {
         "mls": { "hardware":"3.1.4", "software":"3.3.8" },
         "height": {
