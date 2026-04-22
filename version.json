@@ -1,5 +1,5 @@
 {
-    "host": "https://raw.githubusercontent.com/Trimax-Mowing-Systems-Main/firmware/refs/heads/master/",
+    "host": "https://connect.trimaxmowers.com/middleware/bin/",
     "assemblyJig": {
         "mls": { "hardware":"3.1.4", "software":"3.3.8" },
         "height": {
