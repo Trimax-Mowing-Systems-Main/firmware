@@ -151,7 +151,7 @@
             ],
             "slave": [
                 {
-                    "software": "0.10.9",
+                    "software": "0.10.10",
                     "date": "11-05-2026",
                     "notes": "WiFi Channel 9",
                     "hardware": [
