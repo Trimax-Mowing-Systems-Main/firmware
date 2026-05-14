@@ -151,7 +151,7 @@
             ],
             "slave": [
                 {
-                    "software": "0.10.13",
+                    "software": "0.10.14",
                     "date": "15-05-2026",
                     "notes": "WiFi Channel 9. Fix: Sensor Power",
                     "hardware": [
