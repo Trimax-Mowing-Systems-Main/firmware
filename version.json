@@ -151,6 +151,14 @@
             ],
             "slave": [
                 {
+                    "software": "0.10.18",
+                    "date": "03-06-2026",
+                    "notes": "Test FW DO NOT Update!",
+                    "hardware": [
+                        "3.1"
+                    ]
+                },
+                {
                     "software": "0.10.17",
                     "date": "03-06-2026",
                     "notes": "Test FW DO NOT Update!",
