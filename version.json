@@ -151,6 +151,14 @@
             ],
             "slave": [
                 {
+                    "software": "0.10.19",
+                    "date": "04-06-2026",
+                    "notes": "TEST FW DO NOT UPDATE !!",
+                    "hardware": [
+                        "3.0","3.1","3.2"
+                    ]
+                },
+                {
                     "software": "0.10.18",
                     "date": "03-06-2026",
                     "notes": "WIFI Channel 9 || Random BLE MAC",
