@@ -10,14 +10,6 @@
     "firmware": {
         "mls": [
             {
-                "software": "3.3.9",
-                "date": "10-07-20256",
-                "notes":"TESTING DO NOT UPDATE",
-                "hardware": [
-                    "3.13"
-                ]
-            },
-            {
                 "software": "3.3.8",
                 "date": "10-01-2025",
                 "notes":"Performance: Firmware OTA 2.2x faster.",
